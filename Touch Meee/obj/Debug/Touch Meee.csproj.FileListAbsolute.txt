@@ -1,0 +1,11 @@
+E:\0_Working\C#\Projects\Touch Meee\Touch Meee\bin\Debug\Touch Meee.exe
+E:\0_Working\C#\Projects\Touch Meee\Touch Meee\bin\Debug\Touch Meee.pdb
+E:\0_Working\C#\Projects\Touch Meee\Touch Meee\obj\Debug\Touch_Meee.Form1.resources
+E:\0_Working\C#\Projects\Touch Meee\Touch Meee\obj\Debug\Touch_Meee.Properties.Resources.resources
+E:\0_Working\C#\Projects\Touch Meee\Touch Meee\obj\Debug\Touch Meee.csproj.GenerateResource.cache
+E:\0_Working\C#\Projects\Touch Meee\Touch Meee\obj\Debug\Touch Meee.csproj.CoreCompileInputs.cache
+E:\0_Working\C#\Projects\Touch Meee\Touch Meee\obj\Debug\Touch Meee.exe
+E:\0_Working\C#\Projects\Touch Meee\Touch Meee\obj\Debug\Touch Meee.pdb
+E:\0_Working\C#\Projects\Touch Meee\Touch Meee\obj\Debug\Touch Meee.csprojAssemblyReference.cache
+E:\0_Working\C#\Projects\Touch Meee\Touch Meee\obj\Debug\Touch_Meee.Form2.resources
+E:\0_Working\C#\Projects\Touch Meee\Touch Meee\obj\Debug\Touch_Meee.Form3.resources
